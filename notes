@@ -1,0 +1,6 @@
+git status- for showing git status 
+git config --global user.name-Gitname
+git config --global user.email-Gitemail
+git init-git repository set 
+echo -ading files
+git add . -addng all files
